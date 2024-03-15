@@ -1,0 +1,4 @@
+source;share/gbeam2_controller/local_setup.bash
+source;share/gbeam2_controller/local_setup.dsv
+source;share/gbeam2_controller/local_setup.sh
+source;share/gbeam2_controller/local_setup.zsh

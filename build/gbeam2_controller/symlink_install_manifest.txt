@@ -1,0 +1,15 @@
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/ament_index/resource_index/package_run_dependencies/gbeam2_controller
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/ament_index/resource_index/parent_prefix_path/gbeam2_controller
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/environment/ament_prefix_path.sh
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/environment/ament_prefix_path.dsv
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/environment/path.sh
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/environment/path.dsv
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/local_setup.bash
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/local_setup.sh
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/local_setup.zsh
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/local_setup.dsv
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/package.dsv
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/ament_index/resource_index/packages/gbeam2_controller
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/cmake/gbeam2_controllerConfig.cmake
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/cmake/gbeam2_controllerConfig-version.cmake
+/home/pica/code/gbeam_2_ws/install/gbeam2_controller/share/gbeam2_controller/package.xml

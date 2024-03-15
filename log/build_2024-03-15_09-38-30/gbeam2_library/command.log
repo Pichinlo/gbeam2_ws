@@ -1,0 +1,6 @@
+Invoking command in '/home/pica/code/gbeam_2_ws/build/gbeam2_library': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pica/code/gbeam_2_ws/gbeam2_library -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pica/code/gbeam_2_ws/install/gbeam2_library
+Invoked command in '/home/pica/code/gbeam_2_ws/build/gbeam2_library' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pica/code/gbeam_2_ws/gbeam2_library -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pica/code/gbeam_2_ws/install/gbeam2_library
+Invoking command in '/home/pica/code/gbeam_2_ws/build/gbeam2_library': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pica/code/gbeam_2_ws/build/gbeam2_library -- -j20 -l20
+Invoked command in '/home/pica/code/gbeam_2_ws/build/gbeam2_library' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pica/code/gbeam_2_ws/build/gbeam2_library -- -j20 -l20
+Invoking command in '/home/pica/code/gbeam_2_ws/build/gbeam2_library': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pica/code/gbeam_2_ws/build/gbeam2_library
+Invoked command in '/home/pica/code/gbeam_2_ws/build/gbeam2_library' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pica/code/gbeam_2_ws/build/gbeam2_library

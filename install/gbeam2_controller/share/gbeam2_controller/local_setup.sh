@@ -1,0 +1,1 @@
+/home/pica/code/gbeam_2_ws/build/gbeam2_controller/ament_cmake_environment_hooks/local_setup.sh
